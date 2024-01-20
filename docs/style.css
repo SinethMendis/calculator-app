@@ -73,7 +73,7 @@ img {
 }
 
 
-.input-field {
+.screen {
     height: 95px;
     width: 340px;
     border-radius: 5px;
@@ -84,8 +84,9 @@ img {
     margin: 0;
     outline: none;
     text-align: right;
-    direction: rtl;
-    caret-color: transparent;
+    /* direction: rtl; */
+    /* position: relative;  */
+    /* caret-color: transparent; */
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     color: #FDFEFF;
 }
